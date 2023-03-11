@@ -1,3 +1,7 @@
+link to the project: -
+give your address in the input box if you don't have one create else use this 3FvmYWePiSThBshnALcUqpgVtxzRH78bcddzpQZtdrJf
+https://solana-airdrop-sage.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
