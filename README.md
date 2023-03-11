@@ -1,6 +1,6 @@
-link to the project: -
+link to the project: - https://solana-airdrop-sage.vercel.app/ \
 give your address in the input box if you don't have one create else use this 3FvmYWePiSThBshnALcUqpgVtxzRH78bcddzpQZtdrJf
-https://solana-airdrop-sage.vercel.app/
+
 
 # Getting Started with Create React App
 
